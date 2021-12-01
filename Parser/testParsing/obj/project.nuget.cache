@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BB45lHc5HVqMWUUmVBjSwNoxfiKloGY5jgS93BNJu+8dXLdWt9mwHLzUcanTdPoZGgR6eyS62Pc1IZVDyB4xmw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Parser\\testParsing\\testParsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}

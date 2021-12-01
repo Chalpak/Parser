@@ -1,0 +1,16 @@
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.exe
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.deps.json
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.runtimeconfig.json
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.runtimeconfig.dev.json
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.dll
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\Parser.pdb
+D:\C#\Parser\Parser\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.AssemblyReference.cache
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfoInputs.cache
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfo.cs
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.CoreCompileInputs.cache
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.CopyComplete
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.dll
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.pdb
+D:\C#\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.genruntimeconfig.cache

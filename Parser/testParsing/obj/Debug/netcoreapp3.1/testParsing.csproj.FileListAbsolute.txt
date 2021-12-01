@@ -1,0 +1,15 @@
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.exe
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.deps.json
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.runtimeconfig.json
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.runtimeconfig.dev.json
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.dll
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\testParsing.pdb
+D:\C#\Parser\testParsing\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.AssemblyInfoInputs.cache
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.AssemblyInfo.cs
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.csproj.CoreCompileInputs.cache
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.csproj.CopyComplete
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.dll
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.pdb
+D:\C#\Parser\testParsing\obj\Debug\netcoreapp3.1\testParsing.genruntimeconfig.cache
