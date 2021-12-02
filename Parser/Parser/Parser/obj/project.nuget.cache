@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtYPD7KbRtlq+h6AfjXFgzOh3mjTu3Gt+Bf5gQFHmvGM8tLOHEke+kcZTuBw9BU1s3QUHzMHBWeQg9kRFWrr7A==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\УП.03\\parser\\Parser\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
